@@ -1,5 +1,7 @@
 # minimum-discord-gpt-bot
 
+[日本語の説明](https://github.com/kuroganegames/minimum-discord-gpt-bot/blob/main/README_JP.md)
+
 This is very simple chatbot.
 
 This chatbot is integrated with Discord and allows users to interact by **specific commands(below)**.
