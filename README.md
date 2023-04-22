@@ -1,9 +1,12 @@
 # minimum-discord-gpt-bot
 
 This is very simple chatbot.
+
 This chatbot is integrated with Discord and allows users to interact by **specific commands(below)**.
 
+
 Minimal code for a **small community** to use a ChatGPT-style chatbot that uses GPT models to generate responses. 
+
 
 Multiple inputs at the same time and advanced Log functions(e.g. langchain) are **NOT** supported.
 This can cause problems if used by a large community.
