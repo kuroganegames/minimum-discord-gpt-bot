@@ -1,4 +1,5 @@
 # minimum-discord-gpt-bot
+
 This is very simple chatbot.
 This chatbot is integrated with Discord and allows users to interact by **specific commands(below)**.
 
@@ -35,6 +36,7 @@ pip install openai
 ```
 
 [discord.py · PyPI](https://pypi.org/project/discord.py/)
+
 [Libraries - OpenAI API](https://platform.openai.com/docs/libraries)
 
 1. Set up your API keys:
